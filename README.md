@@ -41,7 +41,9 @@ The dataset is a snapshot of product listings, not a complete sales transaction 
 Download the Excel workbook and open it in Microsoft Excel. Review the cleaning log and refresh Power Query/PivotTables if the source data is updated.
 
 ## Data Source
-[Insert the original dataset source and applicable license or attribution]
+Data Source & Attribution
+The project uses the Amazon product sample dataset from Bright Data's eCommerce Dataset Samples repository.
+The dataset is used for educational data-cleaning and reporting analysis. Redistribution permissions for the underlying product records have not yet been confirmed. The raw dataset and record-level derivatives will not be redistributed until the applicable terms are verified.
 
 ## Author
 [Your name or professional portfolio link]
